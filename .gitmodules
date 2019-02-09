@@ -1,0 +1,4 @@
+[submodule "instance-app-node"]
+	path = instance-app-node
+	url = git@github.com:nileorg/instance-app-node.git
+	branch = develop
