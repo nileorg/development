@@ -2,3 +2,7 @@
 	path = instance-app-node
 	url = git@github.com:nileorg/instance-app-node.git
 	branch = develop
+[submodule "instance-lib-js"]
+	path = instance-lib-js
+	url = git@github.com:nileorg/instance-lib-js.git
+	branch = develop
